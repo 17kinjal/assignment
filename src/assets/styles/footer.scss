@@ -1,0 +1,16 @@
+.footer-container {
+  position: absolute;
+  bottom: 7%;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  .copyright-text {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20.5414px;
+    line-height: 151.5%;
+    letter-spacing: -0.01em;
+    color: #a5a5a5;
+  }
+}
